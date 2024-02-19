@@ -30,4 +30,4 @@ Adding a face, Shaders, Powerups, etc.
 
 ## Created by 
 
-Nathan Mishler
+Olive Belcher
